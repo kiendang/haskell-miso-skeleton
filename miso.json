@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/haskell-miso/miso.git",
+  "rev": "15a1a4c8577fdcd2854d991e39493a0f8d43b919",
+  "date": "2020-04-28T22:32:40-04:00",
+  "path": "/nix/store/warrciyirrz2cv90ssk48svpjwag08pq-miso",
+  "sha256": "0f8d5kxk7sbg0mzsrf11ir3gyx4yr23lykr33f3pkg12j7kf6jqa",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
